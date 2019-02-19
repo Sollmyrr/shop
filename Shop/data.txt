@@ -1,0 +1,27 @@
+f apple		 kg 2.4    2343
+f banana	 kg 3.5    2464		
+f orange	 kg 4.2	   2344
+f peach 	 kg 5.0    2671
+f pear		 kg 3.4    2285
+f grape 	 kg 7.5    2653
+f tangerine	 kg 10.0   2998
+f fig 		 kg 19.0   2877
+f persimmon	 kg 16.5   2656
+f pomegranate 	 p  5.0    3371
+f mango 	 p  5.5    3331
+f coconut 	 p  5.0	   3468
+f watermelon 	 p  6.5    3511
+
+v potato 	 kg 2.3    2112
+v tomato 	 kg 4.5    2331
+v bean		 kg 7.0    2199
+v carrot	 kg 2.5    2200
+v onion		 kg 1.8    2201
+v brusselssprout kg 7.9    2202
+v zucchini       kg 6.4    2333
+v cucumber	 kg 3.2    2221
+v lettuce	 p  3.8    3112
+v cauliflower	 p  4.0    3122
+v radish	 p  3.6    3872
+v garlic	 p  3.0    3881
+v cabbage        p  3.5    3587
